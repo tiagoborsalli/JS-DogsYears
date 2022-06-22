@@ -1,5 +1,5 @@
 const myAge = 32; // This is my age.
-let earlyYears = 2; // changeable variable.
+let earlyYears = 2; // The first two dog years accounts differently from the rest.
 earlyYears *= 10.5; // Dogs accounts around 10.5 years old in their first 2 human years.
 let laterYears = myAge - 2;
 laterYears *= 4;
